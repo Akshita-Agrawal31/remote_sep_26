@@ -2,3 +2,7 @@ colors
 pink 
 blue
 green
+orange
+yellow
+indigo
+voilet
